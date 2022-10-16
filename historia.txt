@@ -1,3 +1,3 @@
 Hola buenas tardes esto vendria siendo una pequeña prueba que nos sirve para probar git.
 
-Mi nombre en Danluis tengo 24 años vivo en Dominican republic y estoy trabajando como desarrollor web :)
+Mi nombre en Danluis tengo 24 años vivo en Dominican republic y estoy trabajando como Cientifico de datos en la bolsa de valores :)
