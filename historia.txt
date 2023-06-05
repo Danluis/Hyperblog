@@ -1,9 +1,5 @@
 Hola buenas tardes esto vendria siendo una pequeña prueba que nos sirve para probar git
 
-<<<<<<< HEAD
 Volviendo en el tiempo
 
 Mi nombre en Danluis tengo 24 años vivo en Dominican republic y estoy trabajando como Cientifico de datos en la bolsa de valores :)
-=======
-Hola soy DanluisDTG vengo desde otra cuenta a causar problemas hahaah
->>>>>>> 798cb6a1ff32cc5c9db8511b2ed04b908912c1b9
